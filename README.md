@@ -4,7 +4,7 @@
 WEb site desenvolvido durante as minhas aulas no senai "Ricardo Lerner", a ideia principal era desenvolver uma aplicação que consumise uma API, 
 que no meu caso foi a <a href=https://viacep.com.br>Via Cep</a>,
 
-### Conceitos desenvolvido
+### Conceitos desenvolvidos
 - Fazer requisições HTTP por meio da API Fetch
 - Consumir um arquivo JSON no JavaScript
 - Breve introdução ao Regex por meio do method replace
