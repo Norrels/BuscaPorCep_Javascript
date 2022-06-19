@@ -8,3 +8,5 @@ que no meu caso foi a <a href=https://viacep.com.br>Via Cep</a>,
 - Fazer requisições HTTP por meio da API Fetch
 - Consumir um arquivo JSON no JavaScript
 - Breve introdução ao Regex por meio do method replace
+
+<sup><sub>Ignorem o CSS basico :sweat_smile: </sub></sup>
