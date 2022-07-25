@@ -1,7 +1,7 @@
 
 ![Desktop - 1(1)](https://user-images.githubusercontent.com/94193637/174464098-06b7a20a-95e8-4e1b-974e-758987fe0584.png)
 
-WEb site desenvolvido durante as minhas aulas no senai "Ricardo Lerner", a ideia principal era desenvolver uma aplicação que consumise uma API, 
+WEB site desenvolvido durante as minhas aulas no senai "Ricardo Lerner", a ideia principal era desenvolver uma aplicação que consumise uma API, 
 que no meu caso foi a <a href=https://viacep.com.br>Via Cep</a>,
 
 ### Conceitos desenvolvidos
