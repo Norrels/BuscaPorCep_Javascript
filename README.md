@@ -10,6 +10,6 @@ que no meu caso foi a <a href=https://viacep.com.br>Via Cep</a>,
 
 ### Acesse o arquivo
 
-<a href=https://norrels.github.io/Vinicola_Css/>Vinicola Suehtam</a>,
+<a href=https://norrels.github.io/BuscaPorCep_Javascript/>Busca CEP</a>
 
 <sup><sub>Ignorem o CSS basico :sweat_smile: </sub></sup>
